@@ -1,0 +1,3 @@
+[submodule "ConsoleAppFramework"]
+	path = ConsoleAppFramework
+	url = https://github.com/mik14a/ConsoleAppFramework.git
