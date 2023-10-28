@@ -1,3 +1,6 @@
 [submodule "ConsoleAppFramework"]
 	path = ConsoleAppFramework
 	url = https://github.com/mik14a/ConsoleAppFramework.git
+[submodule "Markdig"]
+	path = Markdig
+	url = https://github.com/xoofx/markdig.git
