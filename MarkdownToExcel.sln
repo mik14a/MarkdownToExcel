@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkdownToExcel", "Markdown
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppFramework", "ConsoleAppFramework\src\ConsoleAppFramework\ConsoleAppFramework.csproj", "{5A70A6B7-4714-4636-AAB2-3D040B0DB323}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markdig", "Markdig\src\Markdig\Markdig.csproj", "{6B530258-2126-4548-9E6B-0C190A93C5A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5A70A6B7-4714-4636-AAB2-3D040B0DB323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A70A6B7-4714-4636-AAB2-3D040B0DB323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A70A6B7-4714-4636-AAB2-3D040B0DB323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B530258-2126-4548-9E6B-0C190A93C5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B530258-2126-4548-9E6B-0C190A93C5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B530258-2126-4548-9E6B-0C190A93C5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B530258-2126-4548-9E6B-0C190A93C5A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
